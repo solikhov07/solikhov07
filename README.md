@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Solikhov Akbar</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan,who has unlimited not only interests in programming, but in other fields as well 🔭</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solikhov07" alt="solikhov07" /></a> </p>
 
 - 🔭 I’m currently working on **Plain2do**
