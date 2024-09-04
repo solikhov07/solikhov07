@@ -12,10 +12,10 @@
 <p align="center">-🧑‍🎓 Current student of Tashkent University of Information Technologies</p>
 <p align="center">-✅ Ready for new challenges</p>
 <br>
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<table align="center" border="none">
+<div>
+  <h3 align="right">Languages and Tools:</h3>
+<table align="right" border="none">
   <tr>
     <th>Frontend</th>
     <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></td>
@@ -37,8 +37,17 @@
     <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p></td>
   </tr>
 </table>
+  
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solikhov07&show_icons=true&locale=en&layout=compact" alt="solikhov07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solikhov07&show_icons=true&locale=en" alt="solikhov07" /></p>
+<br>
+<br>
+</div>
+<div align="right">
+  <h2>Spoken Languages</h2>
+<p>Capable of speaking three different languages such as Russian 🇷🇺, Uzbek 🇺🇿, English 🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
+<p>Russian - C1</p>
+<p>Uzbek - mother tongue</p>
+<p>English - C1</p>
+</div>
