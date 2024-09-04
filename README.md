@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21033
-Fork on GitHub
-6521
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Solikhov Akbar</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan,who has unlimited not only interests in programming, but in other fields as well 🔭</h3>
 <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif" />
