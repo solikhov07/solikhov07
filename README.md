@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Solikhov Akbar</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan,who has unlimited not only interests in programming, but in other fields as well 🔭</h3>
-<img width="400" align="right" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif" />
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solikhov07" alt="solikhov07" /></a> </p>
 
 - 🔭 I’m currently working on **Plain2do**
