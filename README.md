@@ -11,6 +11,7 @@
 <p align="center">-📨 Telegram contacts <a href="https://t.me/solikhov07">https://t.me/solikhov07</a></p>
 <p align="center">-🧑‍🎓 Current student of Tashkent University of Information Technologies</p>
 <p align="center">-✅ Ready for new challenges</p>
+<p align="center">-🧑‍💻 codewars kyu 5</p>
 <br>
 
 <div>
